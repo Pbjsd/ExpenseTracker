@@ -17,6 +17,7 @@
 		5AD5BB542BC34E03004C50C3 /* TransactionRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AD5BB532BC34E03004C50C3 /* TransactionRow.swift */; };
 		5AD5BB572BC44A2C004C50C3 /* SwiftUIFontIcon in Frameworks */ = {isa = PBXBuildFile; productRef = 5AD5BB562BC44A2C004C50C3 /* SwiftUIFontIcon */; };
 		5AD5BB592BC44B21004C50C3 /* TransactionListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AD5BB582BC44B21004C50C3 /* TransactionListViewModel.swift */; };
+		5AD5BB5B2BCEC504004C50C3 /* RecentTransactionList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AD5BB5A2BCEC504004C50C3 /* RecentTransactionList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		5AD5BB512BC34CB5004C50C3 /* PreviewData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewData.swift; sourceTree = "<group>"; };
 		5AD5BB532BC34E03004C50C3 /* TransactionRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionRow.swift; sourceTree = "<group>"; };
 		5AD5BB582BC44B21004C50C3 /* TransactionListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionListViewModel.swift; sourceTree = "<group>"; };
+		5AD5BB5A2BCEC504004C50C3 /* RecentTransactionList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecentTransactionList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 			children = (
 				5AD5BB3F2BC2DCA4004C50C3 /* ExpenseTrackerApp.swift */,
 				5AD5BB412BC2DCA4004C50C3 /* ContentView.swift */,
+				5AD5BB5A2BCEC504004C50C3 /* RecentTransactionList.swift */,
 				5AD5BB532BC34E03004C50C3 /* TransactionRow.swift */,
 				5AD5BB582BC44B21004C50C3 /* TransactionListViewModel.swift */,
 				5AD5BB4F2BC2E4FE004C50C3 /* TransactionModel.swift */,
@@ -161,6 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5AD5BB522BC34CB5004C50C3 /* PreviewData.swift in Sources */,
+				5AD5BB5B2BCEC504004C50C3 /* RecentTransactionList.swift in Sources */,
 				5AD5BB502BC2E4FE004C50C3 /* TransactionModel.swift in Sources */,
 				5AD5BB422BC2DCA4004C50C3 /* ContentView.swift in Sources */,
 				5AD5BB542BC34E03004C50C3 /* TransactionRow.swift in Sources */,
